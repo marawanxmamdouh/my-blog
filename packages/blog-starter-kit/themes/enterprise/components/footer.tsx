@@ -43,7 +43,7 @@ export const Footer = () => {
 								</li>
 								<li>
 									<a href="#" className="hover:underline">
-										Newsletter
+										Newsletterrrrr
 									</a>
 								</li>
 								<li>
