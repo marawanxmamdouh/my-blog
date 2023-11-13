@@ -27,16 +27,7 @@ export const Footer = () => {
 				<div>
 					<div className="col-span-2 flex flex-col items-end gap-5 text-right text-slate-600 dark:text-neutral-300 md:text-left items-center">
 						<SocialLinks />
-						<p>&copy; 2023 Company Inc.</p>
-						<p>
-							<a href="#" className="hover:underline">
-								Privacy Policy
-							</a>{' '}
-							·{' '}
-							<a href="#" className="hover:underline">
-								Terms
-							</a>
-						</p>
+						<p>&copy; 2023 Marawan Mamdouh</p>
 					</div>
 				</div>
 			</Container>
